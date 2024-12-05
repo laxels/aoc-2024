@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "node",
+      "name": "tsx current file",
+      "request": "launch",
+      "runtimeExecutable": "tsx",
+      "program": "${file}"
+    }
+  ]
+}
