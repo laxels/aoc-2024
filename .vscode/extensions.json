@@ -1,0 +1,26 @@
+{
+  "recommendations": [
+    "patbenatar.advanced-new-file",
+    "dbaeumer.vscode-eslint",
+    "sleistner.vscode-fileutils",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "xabikos.javascriptsnippets",
+    "sburg.vscode-javascript-booster",
+    "ms-vsliveshare.vsliveshare",
+    "cardinal90.multi-cursor-case-preserve",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "ms-playwright.playwright",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "mechatroner.rainbow-csv",
+    "buenon.scratchpads",
+    "jasonnutter.search-node-modules",
+    "fivethree.vscode-svelte-snippets",
+    "svelte.svelte-vscode",
+    "redhat.vscode-yaml",
+    "vitest.explorer"
+  ]
+}
