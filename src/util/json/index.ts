@@ -10,7 +10,7 @@
 
 // We use these functions instead of `JSON.stringify`/`JSON.parse` to preserve `Date` types and handle invalid escapes.
 
-import type { Nullable } from '$lib/util/type'; // eslint-disable-line no-restricted-imports
+import type { Nullable } from '../type'; // eslint-disable-line no-restricted-imports
 
 import { sanitizeJsonString } from './sanitize'; // eslint-disable-line no-restricted-imports
 
