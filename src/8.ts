@@ -62,7 +62,6 @@ function part2() {
     if (coords.length === 1) {
       continue;
     }
-    log(`here ${frequency}`);
 
     for (const { x: x1, y: y1 } of coords) {
       for (const { x: x2, y: y2 } of coords) {
